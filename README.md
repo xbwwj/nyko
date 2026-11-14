@@ -19,3 +19,8 @@ Do's:
 Don'ts:
 
 - Do not do aggressive architecture expreiments like `nova`.
+- Do not do optimizations from scratch. We want to first be usable then consider our own innovations.
+- Do not vibe the code.
+  1. Downstream projects like servo forbid AI generated code.
+  2. AI can be used for explorations, but the main branch must be human understandable.
+  3. Vibe prevents us from forming an intuition on how code can be optimized.
