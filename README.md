@@ -25,6 +25,10 @@ Don'ts:
   2. AI can be used for explorations, but the main branch must be human understandable.
   3. Vibe prevents us from forming an intuition on how code can be optimized.
 
+## Roadmap
+
+The first version should be a copy of quickjs, but we also need to learn from the developer experience from rusty_v8 and mozjs, especially the native class/fn integration and `Dom<T>` pointer design. See [dx.md](`docs/dx.md`) for detail.
+
 ## Name
 
 The name `nyko` was named after the meme of nycticorax, with a hope that the engine can either be as performant as a falcon, or as lightweight as hummingbird. 
