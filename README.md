@@ -24,3 +24,7 @@ Don'ts:
   1. Downstream projects like servo forbid AI generated code.
   2. AI can be used for explorations, but the main branch must be human understandable.
   3. Vibe prevents us from forming an intuition on how code can be optimized.
+
+## Name
+
+The name `nyko` was named after the meme of nycticorax, with a hope that the engine can either be as performant as a falcon, or as lightweight as hummingbird. 
